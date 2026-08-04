@@ -15,7 +15,7 @@ internal class Program
         Console.WriteLine("Abstração - 1º Pilar da POO");
 
         /* Criar um classe em C#
-           A Classe deve ser declarada fora do bloco de programa
+        A Classe deve ser declarada fora do bloco de programa
          */
 
         /* Criar um Objeto a partir de uma classe */
