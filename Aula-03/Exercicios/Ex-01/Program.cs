@@ -4,9 +4,14 @@
 internal class Program
 {
     private static void Main(string[] args)
-    {
-        Console.WriteLine(" Digite a temperatura em °C: ");
-        
+{ 
+    int celsius; 
+    Console.WriteLine("Digite a temperatura em °C: "); 
+    celsius = int.Parse(Console.ReadLine()); 
+    
+    int calculo = (celsius * 9 / 5) + 32; 
+    
+    Console.WriteLine("A conversão de °C para °F é: " + calculo); 
+}
 
-    }
 }
