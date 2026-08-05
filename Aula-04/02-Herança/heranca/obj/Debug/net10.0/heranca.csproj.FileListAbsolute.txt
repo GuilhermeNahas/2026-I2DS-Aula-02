@@ -1,0 +1,15 @@
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/02-Herança/heranca/bin/Debug/net10.0/heranca
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/02-Herança/heranca/bin/Debug/net10.0/heranca.deps.json
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/02-Herança/heranca/bin/Debug/net10.0/heranca.runtimeconfig.json
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/02-Herança/heranca/bin/Debug/net10.0/heranca.dll
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/02-Herança/heranca/bin/Debug/net10.0/heranca.pdb
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/02-Herança/heranca/obj/Debug/net10.0/heranca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/02-Herança/heranca/obj/Debug/net10.0/heranca.AssemblyInfoInputs.cache
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/02-Herança/heranca/obj/Debug/net10.0/heranca.AssemblyInfo.cs
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/02-Herança/heranca/obj/Debug/net10.0/heranca.csproj.CoreCompileInputs.cache
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/02-Herança/heranca/obj/Debug/net10.0/heranca.sourcelink.json
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/02-Herança/heranca/obj/Debug/net10.0/heranca.dll
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/02-Herança/heranca/obj/Debug/net10.0/refint/heranca.dll
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/02-Herança/heranca/obj/Debug/net10.0/heranca.pdb
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/02-Herança/heranca/obj/Debug/net10.0/heranca.genruntimeconfig.cache
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/02-Herança/heranca/obj/Debug/net10.0/ref/heranca.dll

@@ -1,0 +1,15 @@
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/03-Encapsulamento/Encapsulamento/obj/Debug/net10.0/Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/03-Encapsulamento/Encapsulamento/obj/Debug/net10.0/Encapsulamento.AssemblyInfoInputs.cache
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/03-Encapsulamento/Encapsulamento/obj/Debug/net10.0/Encapsulamento.AssemblyInfo.cs
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/03-Encapsulamento/Encapsulamento/obj/Debug/net10.0/Encapsulamento.csproj.CoreCompileInputs.cache
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/03-Encapsulamento/Encapsulamento/obj/Debug/net10.0/Encapsulamento.sourcelink.json
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/03-Encapsulamento/Encapsulamento/bin/Debug/net10.0/Encapsulamento
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/03-Encapsulamento/Encapsulamento/bin/Debug/net10.0/Encapsulamento.deps.json
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/03-Encapsulamento/Encapsulamento/bin/Debug/net10.0/Encapsulamento.runtimeconfig.json
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/03-Encapsulamento/Encapsulamento/bin/Debug/net10.0/Encapsulamento.dll
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/03-Encapsulamento/Encapsulamento/bin/Debug/net10.0/Encapsulamento.pdb
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/03-Encapsulamento/Encapsulamento/obj/Debug/net10.0/Encapsulamento.dll
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/03-Encapsulamento/Encapsulamento/obj/Debug/net10.0/refint/Encapsulamento.dll
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/03-Encapsulamento/Encapsulamento/obj/Debug/net10.0/Encapsulamento.pdb
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/03-Encapsulamento/Encapsulamento/obj/Debug/net10.0/Encapsulamento.genruntimeconfig.cache
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-04/03-Encapsulamento/Encapsulamento/obj/Debug/net10.0/ref/Encapsulamento.dll
