@@ -1,15 +1,4 @@
-﻿/*
-## Objetivo
-Criar um sistema para analisar notas de uma turma.
-
-Conceitos utilizados:
-- Vetores;
-- Laços;
-- Métodos;
-- Condições.
-*/
-
-internal class Program
+﻿ internal class Program
 {
     static void Main()
     {
