@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/Exercicio-03/Exercicio-03.csproj": {}
+    "/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/Ex-03/Exercicio-03.csproj": {}
   },
   "projects": {
-    "/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/Exercicio-03/Exercicio-03.csproj": {
+    "/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/Ex-03/Exercicio-03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/Exercicio-03/Exercicio-03.csproj",
+        "projectUniqueName": "/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/Ex-03/Exercicio-03.csproj",
         "projectName": "Exercicio-03",
-        "projectPath": "/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/Exercicio-03/Exercicio-03.csproj",
+        "projectPath": "/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/Ex-03/Exercicio-03.csproj",
         "packagesPath": "/Users/DSI2/.nuget/packages/",
-        "outputPath": "/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/Exercicio-03/obj/",
+        "outputPath": "/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/Ex-03/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/DSI2/.nuget/NuGet/NuGet.Config"
