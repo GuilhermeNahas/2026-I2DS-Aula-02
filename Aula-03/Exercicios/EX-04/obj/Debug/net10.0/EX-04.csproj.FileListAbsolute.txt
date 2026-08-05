@@ -1,0 +1,15 @@
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/EX-04/obj/Debug/net10.0/EX-04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/EX-04/obj/Debug/net10.0/EX-04.AssemblyInfoInputs.cache
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/EX-04/obj/Debug/net10.0/EX-04.AssemblyInfo.cs
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/EX-04/obj/Debug/net10.0/EX-04.csproj.CoreCompileInputs.cache
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/EX-04/obj/Debug/net10.0/EX-04.sourcelink.json
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/EX-04/bin/Debug/net10.0/EX-04
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/EX-04/bin/Debug/net10.0/EX-04.deps.json
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/EX-04/bin/Debug/net10.0/EX-04.runtimeconfig.json
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/EX-04/bin/Debug/net10.0/EX-04.dll
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/EX-04/bin/Debug/net10.0/EX-04.pdb
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/EX-04/obj/Debug/net10.0/EX-04.dll
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/EX-04/obj/Debug/net10.0/refint/EX-04.dll
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/EX-04/obj/Debug/net10.0/EX-04.pdb
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/EX-04/obj/Debug/net10.0/EX-04.genruntimeconfig.cache
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-03/Exercicios/EX-04/obj/Debug/net10.0/ref/EX-04.dll
