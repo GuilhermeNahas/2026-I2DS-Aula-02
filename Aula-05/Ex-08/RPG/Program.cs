@@ -1,15 +1,9 @@
 ﻿internal class Program
 {
-    private static void Main(string[] args)
-    {
-        
-
-    }
-
     public class Personagem
     {
         public string Nome {get; private set;}
-        public int Nivel {get; private set;}
+        public int Nivel {get; protected set;}
         public int Experiencia {get; private set;}
         public int Forca {get; protected set;}
         public int Agilidade {get; protected set;}
@@ -106,5 +100,51 @@
         {
             return Vida > 0;
         }
+    }
+    // ======================================================
+    // MAGO
+    // ======================================================
+    public class Mago : Personagem
+    {
+        public Mago(string nome): base(nome, 5, 7, 25, 90){ }
+
+        public override void Atacar(Personagem alvo)
+        {
+            int dano = Inteligencia;
+            Console.WriteLine(
+                $"{Nome} lançou uma magia contra {alvo.Nome}");
+            alvo.Defender(dano);
+            GanharExperiencia(20);
+        }
+
+        protected override void Evoluir()
+        {
+            Nivel++;
+            Forca++; // Forca = Forca + 2
+            Agilidade += 2;
+            Inteligencia +=5;
+            Vida += 15;
+
+            Console.WriteLine();
+            Console.WriteLine("========================================");
+            Console.WriteLine("              LEVEL UP!");
+            Console.WriteLine("========================================");
+            Console.WriteLine();
+            Console.WriteLine($"{Nome} evoluiu para o nível {Nivel}");
+            Console.WriteLine($"Força: {Forca}");
+            Console.WriteLine($"Agilidade: {Agilidade}");
+            Console.WriteLine($"Inteligência: {Inteligencia}");
+            Console.WriteLine($"Vida: {Vida}");
+            Console.WriteLine("========================================");
+            Console.WriteLine();
+
+
+        }
+    }
+
+
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
     }
 }
