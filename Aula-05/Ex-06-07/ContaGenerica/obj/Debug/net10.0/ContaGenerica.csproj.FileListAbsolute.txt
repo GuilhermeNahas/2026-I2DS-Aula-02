@@ -1,0 +1,5 @@
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/obj/Debug/net10.0/ContaGenerica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/obj/Debug/net10.0/ContaGenerica.AssemblyInfoInputs.cache
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/obj/Debug/net10.0/ContaGenerica.AssemblyInfo.cs
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/obj/Debug/net10.0/ContaGenerica.csproj.CoreCompileInputs.cache
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/obj/Debug/net10.0/ContaGenerica.sourcelink.json

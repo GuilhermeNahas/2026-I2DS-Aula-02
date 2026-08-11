@@ -1,0 +1,15 @@
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/ContaProtegida/bin/Debug/net10.0/ContaProtegida
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/ContaProtegida/bin/Debug/net10.0/ContaProtegida.deps.json
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/ContaProtegida/bin/Debug/net10.0/ContaProtegida.runtimeconfig.json
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/ContaProtegida/bin/Debug/net10.0/ContaProtegida.dll
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/ContaProtegida/bin/Debug/net10.0/ContaProtegida.pdb
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/ContaProtegida/obj/Debug/net10.0/ContaProtegida.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/ContaProtegida/obj/Debug/net10.0/ContaProtegida.AssemblyInfoInputs.cache
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/ContaProtegida/obj/Debug/net10.0/ContaProtegida.AssemblyInfo.cs
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/ContaProtegida/obj/Debug/net10.0/ContaProtegida.csproj.CoreCompileInputs.cache
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/ContaProtegida/obj/Debug/net10.0/ContaProtegida.sourcelink.json
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/ContaProtegida/obj/Debug/net10.0/ContaProtegida.dll
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/ContaProtegida/obj/Debug/net10.0/refint/ContaProtegida.dll
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/ContaProtegida/obj/Debug/net10.0/ContaProtegida.pdb
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/ContaProtegida/obj/Debug/net10.0/ContaProtegida.genruntimeconfig.cache
+/Users/DSI2/Downloads/2026-I2DS-Aula-02/Aula-05/Ex-06-07/ContaGenerica/ContaProtegida/obj/Debug/net10.0/ref/ContaProtegida.dll
