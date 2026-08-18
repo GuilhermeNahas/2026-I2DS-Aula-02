@@ -1,8 +1,22 @@
 ﻿/*
-A função deve calcular a **multiplicação entre dois números**.
+Crie uma `Stack<string>` simulando o histórico de ações de um editor de texto.
 
-Teste a função utilizando **3 pares de valores diferentes** e imprima os resultados no console.
-**Conceitos:** `Func<>` • Lambda Expression
+Exemplos de ações:
+
+```
+Digitar
+Colar
+Negrito
+Apagar
+```
+
+Realize as seguintes operações:
+
+1. Empilhe 4 ações;
+2. Desempilhe (`Pop`) as 2 últimas ações;
+3. A cada `Pop`, imprima qual ação foi desfeita.
+
+**Conceitos:** `Stack<T>` • `Push()` • `Pop()`
 
 */
 
@@ -10,14 +24,17 @@ internal class Program
 {
     private static void Main(string[] args)
 {
-        Func<int, int, int> multiplicar = (a, b) => (a *b);
+    Stack<string> historico = new Stack<string>();
 
-        int result = multiplicar(5, 5);
-        int result2 = multiplicar(4, 4);
-        int result3 = multiplicar(3, 3);
-    
-        Console.WriteLine($"Teste resultado 1: {result}");
-        Console.WriteLine($"Teste resultado 1: {result2}");
-        Console.WriteLine($"Teste resultado 1: {result3}");
+        historico.Push("Digitar");
+        historico.Push("Colar");
+        historico.Push("Negrito");
+        historico.Push("Apagar");
+        
+        string acaoDesfeita = historico.Pop();
+        Console.WriteLine("Ação desfeita: " + acaoDesfeita);
+
+        acaoDesfeita = historico.Pop();
+        Console.WriteLine("Ação desfeita: " + acaoDesfeita);
 }
 }
